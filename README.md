@@ -1,2 +1,2 @@
 # memory1
-game test memory
+game test about memory
